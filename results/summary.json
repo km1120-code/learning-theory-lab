@@ -1,0 +1,20 @@
+{
+  "experiment": "finite-class uniform convergence",
+  "seed": 2026,
+  "trials": 128,
+  "noise": 0.1,
+  "delta": 0.05,
+  "hypotheses": 41,
+  "sizes": [
+    32,
+    64,
+    128,
+    256,
+    512,
+    1024,
+    2048
+  ],
+  "largest_n_q95": 0.02880078125000004,
+  "largest_n_bound": 0.04251163535815538,
+  "interpretation": "Synthetic Monte Carlo illustration; percentile band is not a confidence interval."
+}
