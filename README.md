@@ -1,8 +1,7 @@
 # Learning Theory Lab
 
-Educational example created for an academic homepage prototype. This repository
-uses synthetic data and makes no claim of a published research contribution.
-The example is not evidence of any person's education, employment, or authorship.
+A reproducible educational example using synthetic data. The code, tests, and
+recorded results make the mathematical assumptions and numerical behavior explicit.
 
 ## Finite-class uniform convergence
 
